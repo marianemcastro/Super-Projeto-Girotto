@@ -9,7 +9,7 @@ Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS
 ## 📊 Dataset
 
 - **Fonte:** DATASUS (datasus.saude.gov.br)
-- **Arquivo:** `TABELA_BRASIL_bagunçada.csv`
+- **Arquivo:** `dados_tria.csv`
 - **Período:** nov/2023 a dez/2025 (competência única)
 - **Instâncias:** 5.568 municípios (após limpeza)
 - **Atributos:** 32.Incluindo:
