@@ -12,7 +12,7 @@ Este projeto realiza uma análise exploratória e preditiva dos dados da **Triag
 - **Arquivo:** `TABELA_BRASIL_bagunçada.csv`
 - **Período:** nov/2023 a dez/2025 (competência única)
 - **Instâncias:** 5.568 municípios (após limpeza)
-- **Atributos:** 32, incluindo:
+- **Atributos:** 32.Incluindo:
   - Identificação: `Região`, `UF`, `IBGE`, `Município`, `Competência`
   - Demografia: `População`, `Domicílios com a TRIA aplicada`
   - Risco: `Domicílios em risco de insegurança alimentar`, `% Domicílios em risco`
