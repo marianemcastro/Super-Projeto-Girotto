@@ -24,7 +24,7 @@ Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS
     - Responsável familiar (RF) do sexo feminino/masculino
     - RF autodeclarado pardo, branco, amarelo, preto, indígena
 
-> **Variável alvo (classificação):** 
+> **Variável alvo (classificação):** Porcentagem de Domicílios de Insegurança Domiciliar Alimentar para tirar uma mediana para fazer a variável de alto risco.
 ## 🎯 Objetivos
 1. **Explorar** a distribuição da insegurança alimentar por região e grupos vulneráveis.
 2. **Aplicar o Teorema de Bayes** (Naive Bayes) como classificador probabilístico.
