@@ -59,5 +59,5 @@ Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/inseguranca-alimentar-brasil.git
-   cd inseguranca-alimentar-brasil
+   git clone https://github.com/marianemcastro/Super-Projeto-Girotto.git
+   cd Super-Projeto-Girotto
