@@ -5,7 +5,7 @@ Trabalho avaliativo do 2° bimestre de probabilidade e estatística.
 - Mariane Marinho de Castro;
 - Lais Pereira Cunha
 # Análise de Risco de Insegurança Alimentar no Brasil
-Este projeto realiza uma análise exploratória e preditiva dos dados da **Triagem de Risco de Insegurança Alimentar (TRIA)** para todos os municípios brasileiros, com o objetivo de identificar fatores associados ao alto risco de insegurança alimentar e comparar diferentes abordagens de classificação.
+Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS sobre **Triagem de Risco de Insegurança Alimentar (TRIA)** para todos os municípios brasileiros, com o objetivo de identificar fatores associados ao alto risco de insegurança alimentar e comparar diferentes abordagens de classificação.
 ## 📊 Dataset
 
 - **Fonte:** DATASUS (datasus.saude.gov.br)
