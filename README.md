@@ -54,7 +54,7 @@ Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS
 
 ### Pré‑requisitos
 - Python 3.10 ou superior
-- Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`
+- Bibliotecas: `pandas`, `numpy`, `matplotlib`
 
 ### Passos
 1. Clone este repositório:
