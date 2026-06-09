@@ -34,7 +34,10 @@ Este projeto realiza uma análise exploratória e preditiva dos dados do DATASUS
 ## 🧪 Metodologia
 
 ### 🔧 Tratamento dos dados
-- 
+- Remoção de linhas duplicadas
+- Remoção de linhas que contenham valores vazios
+- Remove qualquer espaço em branco que esteja sobrando no início, final, ou meio das palavras. Substitui qualquer ocorrência de múltiplos espaços em seguida (como dois ou mais espaços ou quebras de linha) por um único espaço, deixando o texto mais limpo e uniforme.
+- Transforma todas as letras das colunas citadas em maiúsculas. 
 
 ### 📈 Análise exploratória
 - Matriz de correlação entre variáveis.
